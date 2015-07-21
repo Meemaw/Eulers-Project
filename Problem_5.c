@@ -13,7 +13,7 @@ int main() {
          i % 18 != 0 || i % 19 != 0 || i % 20 != 0) {
     i += 20;
 	}
-	printf("The smallest number that is evenly divisible by all of the numbers from 1 to 20:\n");
+
 	printf("%d\n", i);
 
 
